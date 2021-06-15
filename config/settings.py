@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-gw()^i1b5nw7lq!$vue+yh1ytye=ld5r2y6*hl4aflgwkto80@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
